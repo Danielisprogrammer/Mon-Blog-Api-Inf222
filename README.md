@@ -14,7 +14,7 @@ Cette application est une API REST robuste développée avec **Node.js** et **Ex
 
 ### 🌐 Liens du Projet
 - **Dépôt GitHub :** [https://github.com/Danielisprogrammer/Mon-Blog-Api-Inf222.git]
-- **API Déployée (Live) :** [https://mon-blog-api-inf222.onrender.com]/api/articles
+- **API Déployée (Live) :** [https://mon-blog-api-inf222.onrender.com/api/articles]
 
 ---
 
@@ -61,12 +61,14 @@ Le projet suit le pattern **MVC** (Modèle-Vue-Contrôleur) pour assurer une sé
    cd mon-blog-api
 Installer les dépendances
 
-Bash
+```bash
 npm install
+```
 Lancer le serveur (Mode Dev)
 
-Bash
+```bash
 npm run dev
+```
 Le serveur sera accessible sur http://localhost:3000.
 
 🧪 Analyse Critique & Outils
